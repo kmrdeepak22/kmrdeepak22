@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kmrdeepak22
 - 👀 I’m interested in Computer science and Engineering.
-- 🌱 I’m currently learning c++ programming.
+- 🌱 I’m currently working on hyperledger.
 <!--- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...--->
 
